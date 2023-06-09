@@ -6,7 +6,7 @@
     <color name="md_red_200">#f69988</color>
     <color name="md_red_300">#f36c60</color>
     <color name="md_red_400">#e84e40</color>
-    <color name="md_red_500">#e51c23</color>
+    <color name="md_red_500">#EA008A</color>
     <color name="md_red_600">#dd191d</color>
     <color name="md_red_700">#d01716</color>
     <color name="md_red_800">#c41411</color>
@@ -150,7 +150,7 @@
     <color name="md_green_200">#72d572</color>
     <color name="md_green_300">#42bd41</color>
     <color name="md_green_400">#2baf2b</color>
-    <color name="md_green_500">#259b24</color>
+    <color name="md_green_500">#02AAED</color>
     <color name="md_green_600">#0a8f08</color>
     <color name="md_green_700">#0a7e07</color>
     <color name="md_green_800">#056f00</color>
